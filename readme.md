@@ -17,7 +17,7 @@
 
 <!-- toc -->
 ## Contents
-* [Featured (new releases)](#Featured (new releases)
+* [Featured (new releases)](#featured-new-releases)
 
 
 <!-- START content -->
